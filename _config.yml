@@ -3,4 +3,6 @@ plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
 
-theme: jekyll-theme-hacker
+theme: jekyll-theme-midnight
+title: Gayathri Nandakumar
+description: The description goes here
